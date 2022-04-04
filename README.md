@@ -51,7 +51,7 @@ For more information about Hashlib, click [here](https://pypi.org/project/hashli
 #### Usage
 
 
-The following images can be seen when viewing this project:
+The following are images seen on Streamlit:
 
 
 ![Streamlit Block Dropdown](https://github.com/EmilyBertani/Challenge_18/blob/main/block_dropdown.png)
