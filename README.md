@@ -54,6 +54,8 @@ The following images can be seen when viewing this project:
 
 ![Streamlit Block Dropdown](https://github.com/EmilyBertani/Challenge_18/blob/main/block_dropdown.png)
 
+
+
 ![Streamlit Block Record](https://github.com/EmilyBertani/Challenge_18/blob/main/block_record.png)
 
 
