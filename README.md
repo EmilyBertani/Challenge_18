@@ -4,7 +4,7 @@
 
 #### What this program does
 
-In this program we have created 
+In this program we have used Streamlit to visualize the creation of a blockchain. We can add blocks to the chain, validate the blocks and see a record of each blocks hash. We can also set the difficulty parameter for the hash. 
 
 ---
 
@@ -16,6 +16,8 @@ Python 3.7.1
 
 Visual Studio Code
 
+Streamlit
+
 
 ---
 
@@ -24,16 +26,22 @@ Visual Studio Code
 
 Make sure to run the appropriate imports:
 
+`import streamlit as st`
+
+`from dataclasses import dataclass`
+
+`from typing import Any, List`
+
+`import datetime as datetime`
+
 `import pandas as pd`
 
-`import hvplot.pandas`
-
-`from pathlib import Path`
+`import hashlib`
 
 
 For more information about Pandas, click [here](https://pandas.pydata.org/)
 
-
+For more information about Streamlit, click [here](https://streamlit.io/)
 
 ---
 
@@ -43,9 +51,10 @@ For more information about Pandas, click [here](https://pandas.pydata.org/)
 
 The following images can be seen when viewing this project:
 
+
 ![Streamlit Block Dropdown](https://github.com/EmilyBertani/Challenge_18/blob/main/block_dropdown.png)
 
-![Block Record](https://github.com/EmilyBertani/Challenge_18/blob/main/block_record.png)
+![Streamlit Block Record](https://github.com/EmilyBertani/Challenge_18/blob/main/block_record.png)
 
 
 
