@@ -1,4 +1,4 @@
-# Challenge_18
+# Challenge 18
 ## BlockChain and Streamlit
 ---
 
@@ -26,22 +26,24 @@ Streamlit
 
 Make sure to run the appropriate imports:
 
-`import streamlit as st`
-
-`from dataclasses import dataclass`
-
-`from typing import Any, List`
-
 `import datetime as datetime`
 
 `import pandas as pd`
 
 `import hashlib`
 
+`import streamlit as st`
+
+`from dataclasses import dataclass`
+
+`from typing import Any, List`
+
 
 For more information about Pandas, click [here](https://pandas.pydata.org/)
 
 For more information about Streamlit, click [here](https://streamlit.io/)
+
+For more information about Hashlib, click [here](https://pypi.org/project/hashlib/)
 
 ---
 
